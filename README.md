@@ -1,8 +1,12 @@
 # Redis
 
-Repositório com posts técnicos de minha autoria sobre Redis, publicados no blog da 4Linux.
+Repositório dedicado ao Redis, contendo scripts, tutoriais, configurações e materiais de estudo sobre a tecnologia.
+
+O conteúdo abrange desde conceitos básicos até configurações avançadas de produção, incluindo segurança, replicação, alta disponibilidade e boas práticas de operação.
 
 ## Conteúdo
+
+### Posts técnicos
 
 | Post | Publicação |
 |------|------------|
@@ -11,5 +15,9 @@ Repositório com posts técnicos de minha autoria sobre Redis, publicados no blo
 
 ## Temas Abordados
 
-- **ACLs e controle de acesso:** Criação de usuários no Redis com permissões baseadas em padrões de chaves, isolando acessos por sistema ou aplicação.
-- **Alta disponibilidade com Redis Sentinel:** Configuração de replicação master/slave e failover automático com Redis Sentinel em ambientes Red Hat Linux.
+- Controle de acesso com ACLs (Access Control Lists)
+- Criação e gerenciamento de usuários
+- Restrição de acesso baseada em padrões de chaves
+- Replicação master/slave
+- Alta disponibilidade com Redis Sentinel
+- Configuração de failover automático
